@@ -34,7 +34,7 @@ jobs:
       with:
         source_file: 'assets.json'
         destination_repo: 'Kellojo/Mesh-Kit'
-        destination_folder: ''
+        destination_folder: 'src/assets/'
         user_email: 'kellojo@users.noreply.github.com'
         user_name: 'Kellojo'
         commit_message: 'Updated assets.json via automated workflow'
