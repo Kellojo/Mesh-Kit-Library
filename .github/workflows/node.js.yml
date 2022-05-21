@@ -25,3 +25,16 @@ jobs:
           git config --global user.email 'kellojo@users.noreply.github.com'
           git commit -am "Automated assets.json update"
           git push
+          
+          
+    - name: Push Assets.json to GitHub Pages Project
+      uses: dmnemec/copy_file_to_another_repo_action@main
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'assets.json'
+        destination_repo: 'Kellojo/Mesh-Kit'
+        destination_folder: ''
+        user_email: 'kellojo@users.noreply.github.com'
+        user_name: 'Kellojo'
+        commit_message: 'Updated assets.json via automated workflow'
