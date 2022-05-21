@@ -94,8 +94,6 @@ class Asset {
         };
 
         fs.writeFile('assets.json', JSON.stringify(json));
-
-        console.log(json);
     } catch (e) {}    
     
 })();
