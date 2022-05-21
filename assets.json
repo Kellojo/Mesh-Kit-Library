@@ -1,0 +1,16 @@
+{
+    "statistics": {
+        "meshes": {
+            "count": 1
+        }
+    },
+    "meshes": [
+        {
+            "name": "Energy Cell",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/Energy Cell.blend"
+            }
+        }
+    ]
+}
