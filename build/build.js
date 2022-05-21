@@ -93,7 +93,7 @@ class Asset {
             meshes: meshes
         };
 
-        fs.writeFile('assets.json', JSON.stringify(json));
+        fs.writeFile('assets.json', JSON.stringify(json, null, 4));
     } catch (e) {}    
     
 })();
