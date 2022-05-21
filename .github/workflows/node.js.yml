@@ -30,7 +30,7 @@ jobs:
     - name: Push Assets.json to GitHub Pages Project
       uses: dmnemec/copy_file_to_another_repo_action@main
       env:
-        API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
+        API_TOKEN_GITHUB: ${{ secrets.MESH_KIT_PUSH_PAT }}
       with:
         source_file: 'assets.json'
         destination_repo: 'Kellojo/Mesh-Kit'
