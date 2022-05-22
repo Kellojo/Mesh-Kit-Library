@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 3
+            "count": 4
         }
     },
     "meshes": [
@@ -24,6 +24,13 @@
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Storage Drive/icon.png",
             "downloads": {
                 ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Storage Drive/Storage Drive.blend"
+            }
+        },
+        {
+            "name": "Wind Turbine",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Wind Turbine/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Wind Turbine/Wind Turbine.blend"
             }
         }
     ]
