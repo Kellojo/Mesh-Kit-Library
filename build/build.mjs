@@ -79,8 +79,6 @@ class Asset {
 
         await Promise.all(operations);
 
-        console.log(timestamps);
-
         this.downloadables = assets;
         this.createdAt = timestamps.created.toISOString();
         this.lastModifiedAt = timestamps.modified.toISOString();
@@ -120,5 +118,3 @@ const json = {
 };
 
 await fs.writeFile('assets.json', JSON.stringify(json, null, 4));
-console.log("Finished writing file");
-
