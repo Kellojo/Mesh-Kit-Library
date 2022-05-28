@@ -7,13 +7,14 @@ assignees: Kellojo
 
 ---
 
-# Asset Type
-[ ] Mesh
-[ ] Texture
-[ ] Material
+## Asset Type
+- [ ] Mesh
+- [ ] Texture
+- [ ] Material
 
-# Description of the Asset
+## Description of the Asset
 
 
-I'll try to take a look at your request and add it to the library. However I can't promise that I'll be able to do all requests 😊
-Also, please make sure to add some references, if you have something special in mind!
+<br/><br/><br/><br/>
+*Note: I'll try to take a look at your request and add it to the library. However I can't promise that I'll be able to do all requests 😊
+Also, please make sure to add some references, if you have something special in mind!*
