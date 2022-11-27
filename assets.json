@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 26
+            "count": 24
         }
     },
     "meshes": [
@@ -9,10 +9,9 @@
             "name": "Antenna",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Antenna/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Antenna/Antenna.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Antenna/Antenna.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Antenna/Antenna.blend"
             },
-            "createdAt": "2022-11-27T20:16:04.000Z",
+            "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-11-27T20:24:20.000Z"
         },
         {
@@ -28,18 +27,16 @@
             "name": "Cursor",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor/Cursor.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor/Cursor.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor/Cursor.blend"
             },
-            "createdAt": "2022-05-25T19:37:37.000Z",
+            "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-05-25T21:12:05.000Z"
         },
         {
             "name": "Cursor (Move Indicator)",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor (Move Indicator)/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor (Move Indicator)/Cursor.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor (Move Indicator)/Cursor.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor (Move Indicator)/Cursor.blend"
             },
             "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-05-28T19:04:48.000Z"
@@ -48,8 +45,7 @@
             "name": "Energy Cell",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/Energy Cell.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/Energy Cell.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/Energy Cell.blend"
             },
             "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
@@ -58,8 +54,7 @@
             "name": "Gatling Turret",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/Turret.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/Turret.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/Turret.blend"
             },
             "createdAt": "2022-05-23T21:05:26.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
@@ -68,30 +63,27 @@
             "name": "Hexagonal Cliffs",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Hexagonal Cliffs/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Hexagonal Cliffs/Hexagonal Cliffs.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Hexagonal Cliffs/Hexagonal Cliffs.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Hexagonal Cliffs/Hexagonal Cliffs.blend"
             },
-            "createdAt": "2022-07-10T18:17:02.000Z",
+            "createdAt": "2022-05-22T20:48:36.000Z",
             "lastModifiedAt": "2022-07-10T18:24:20.000Z"
         },
         {
             "name": "Homing Missile",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Homing Missile/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Homing Missile/Homing Missle.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Homing Missile/Homing Missle.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Homing Missile/Homing Missle.blend"
             },
-            "createdAt": "2022-11-27T22:05:46.000Z",
+            "createdAt": "2022-05-22T20:48:36.000Z",
             "lastModifiedAt": "2022-11-27T22:08:52.000Z"
         },
         {
             "name": "Ingot",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Ingot/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Ingot/Ingot.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Ingot/Ingot.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Ingot/Ingot.blend"
             },
-            "createdAt": "2022-05-26T19:45:53.000Z",
+            "createdAt": "2022-05-22T20:48:36.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
         },
         {
@@ -107,58 +99,52 @@
             "name": "Mono Rail Piece",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece/Mono Railblend.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece/Mono Railblend.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece/Mono Railblend.blend"
             },
-            "createdAt": "2022-05-21T22:35:47.000Z",
+            "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
         },
         {
             "name": "Mono Rail Piece (Damaged)",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece (Damaged)/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece (Damaged)/Mono Rail Damaged.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece (Damaged)/Mono Rail Damaged.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mono Rail Piece (Damaged)/Mono Rail Damaged.blend"
             },
-            "createdAt": "2022-05-25T20:26:19.000Z",
+            "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
         },
         {
             "name": "Mortar",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mortar/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mortar/Mortar.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mortar/Mortar.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Mortar/Mortar.blend"
             },
-            "createdAt": "2022-05-22T20:57:31.000Z",
+            "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
         },
         {
             "name": "Projectile",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Projectile/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Projectile/Projectile.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Projectile/Projectile.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Projectile/Projectile.blend"
             },
-            "createdAt": "2022-05-22T20:58:45.000Z",
+            "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
         },
         {
             "name": "Rocket Crab Robot",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Rocket Crab Robot/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Rocket Crab Robot/Rocket Crab Robot.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Rocket Crab Robot/Tank Enemy.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Rocket Crab Robot/Rocket Crab Robot.blend"
             },
-            "createdAt": "2022-11-27T21:59:03.000Z",
+            "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-11-27T22:08:52.000Z"
         },
         {
             "name": "Rocketship",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Rocketship/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Rocketship/Rocketship.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Rocketship/Rocketship.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Rocketship/Rocketship.blend"
             },
             "createdAt": "2022-05-22T20:48:36.000Z",
             "lastModifiedAt": "2022-05-27T09:51:52.000Z"
@@ -167,18 +153,16 @@
             "name": "Shell Casing",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Shell Casing/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Shell Casing/Shell Casing.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Shell Casing/Shell Casing.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Shell Casing/Shell Casing.blend"
             },
-            "createdAt": "2022-05-25T18:33:55.000Z",
+            "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
         },
         {
             "name": "Solar Panel",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Solar Panel/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Solar Panel/Solar Panel.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Solar Panel/Solar Panel.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Solar Panel/Solar Panel.blend"
             },
             "createdAt": "2022-05-22T20:48:36.000Z",
             "lastModifiedAt": "2022-05-27T09:41:24.000Z"
@@ -187,8 +171,7 @@
             "name": "Star Corp Sign",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Star Corp Sign/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Star Corp Sign/Star Corp Sign.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Star Corp Sign/Star Corp Sign.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Star Corp Sign/Star Corp Sign.blend"
             },
             "createdAt": "2022-05-30T10:53:23.000Z",
             "lastModifiedAt": "2022-05-30T11:03:44.000Z"
@@ -197,8 +180,7 @@
             "name": "Star Gate",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Star Gate/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Star Gate/Star Gate.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Star Gate/Star Gate.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Star Gate/Star Gate.blend"
             },
             "createdAt": "2022-05-27T09:41:24.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
@@ -207,18 +189,16 @@
             "name": "Storage Drive",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Storage Drive/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Storage Drive/Storage Drive.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Storage Drive/Storage Drive.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Storage Drive/Storage Drive.blend"
             },
-            "createdAt": "2022-05-21T21:20:24.000Z",
+            "createdAt": "2022-05-21T13:35:37.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
         },
         {
             "name": "Tesla Coil",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/Connector.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/Connector.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/Connector.blend"
             },
             "createdAt": "2022-05-25T19:41:58.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
@@ -227,8 +207,7 @@
             "name": "Thruster",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Thruster/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Thruster/Thruster.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Thruster/Thruster.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Thruster/Thruster.blend"
             },
             "createdAt": "2022-05-25T23:03:54.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
@@ -237,8 +216,7 @@
             "name": "Wind Turbine",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Wind Turbine/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Wind Turbine/Wind Turbine.blend",
-                ".blend1": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Wind Turbine/Wind Turbine.blend1"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Wind Turbine/Wind Turbine.blend"
             },
             "createdAt": "2022-05-22T20:48:36.000Z",
             "lastModifiedAt": "2022-05-27T13:45:26.000Z"
