@@ -1,7 +1,7 @@
 {
     "statistics": {
         "meshes": {
-            "count": 24
+            "count": 25
         }
     },
     "meshes": [
@@ -18,10 +18,10 @@
             "name": "Construction Drone",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Construction Drone/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Construction Drone/Drone.blend"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Construction Drone/Construction Drone.blend"
             },
             "createdAt": "2022-05-21T13:35:37.000Z",
-            "lastModifiedAt": "2022-05-27T13:45:26.000Z"
+            "lastModifiedAt": "2023-08-19T20:43:13.000Z"
         },
         {
             "name": "Cursor",
@@ -36,28 +36,37 @@
             "name": "Cursor (Move Indicator)",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor (Move Indicator)/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor (Move Indicator)/Cursor.blend"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Cursor (Move Indicator)/Cursor (Move Indicator).blend"
             },
             "createdAt": "2022-05-21T13:35:37.000Z",
-            "lastModifiedAt": "2022-05-28T19:04:48.000Z"
+            "lastModifiedAt": "2023-08-19T20:36:19.000Z"
         },
         {
-            "name": "Energy Cell",
-            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/icon.png",
+            "name": "Energy Cell 1",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell 1/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell/Energy Cell.blend"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell 1/Energy Cell 1.blend"
             },
             "createdAt": "2022-05-21T13:35:37.000Z",
-            "lastModifiedAt": "2022-05-27T13:45:26.000Z"
+            "lastModifiedAt": "2023-07-02T11:37:52.000Z"
+        },
+        {
+            "name": "Energy Cell 2",
+            "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell 2/icon.png",
+            "downloads": {
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Energy Cell 2/Energy Cell 2.blend"
+            },
+            "createdAt": "2023-07-02T11:37:52.000Z",
+            "lastModifiedAt": "2023-07-02T11:37:52.000Z"
         },
         {
             "name": "Gatling Turret",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/Turret.blend"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Gatling Turret/Gatling Turret.blend"
             },
             "createdAt": "2022-05-23T21:05:26.000Z",
-            "lastModifiedAt": "2022-05-27T13:45:26.000Z"
+            "lastModifiedAt": "2023-08-19T20:26:14.000Z"
         },
         {
             "name": "Hexagonal Cliffs",
@@ -72,10 +81,10 @@
             "name": "Homing Missile",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Homing Missile/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Homing Missile/Homing Missle.blend"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Homing Missile/Homing Missile.blend"
             },
             "createdAt": "2022-05-22T20:48:36.000Z",
-            "lastModifiedAt": "2022-11-27T22:08:52.000Z"
+            "lastModifiedAt": "2023-08-20T13:51:07.000Z"
         },
         {
             "name": "Ingot",
@@ -90,10 +99,10 @@
             "name": "Land Mine",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Land Mine/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Land Mine/Mine.blend"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Land Mine/Land Mine.blend"
             },
             "createdAt": "2022-05-22T20:48:36.000Z",
-            "lastModifiedAt": "2022-08-20T10:48:48.000Z"
+            "lastModifiedAt": "2023-08-19T20:43:13.000Z"
         },
         {
             "name": "Mono Rail Piece",
@@ -198,10 +207,10 @@
             "name": "Tesla Coil",
             "previewUrl": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/icon.png",
             "downloads": {
-                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/Connector.blend"
+                ".blend": "https://raw.githubusercontent.com/Kellojo/Mesh-Kit-Library/main/assets/meshes/Tesla Coil/Tesla Coil.blend"
             },
             "createdAt": "2022-05-25T19:41:58.000Z",
-            "lastModifiedAt": "2022-05-27T13:45:26.000Z"
+            "lastModifiedAt": "2023-08-19T20:35:07.000Z"
         },
         {
             "name": "Thruster",
